@@ -1,2 +1,3 @@
-# ergatis-pipelines
-A version of IGS Ergatis that separates the workflow pipelines by branch
+# Grove Pipeline
+A version of IGS Ergatis that houses the components and scripts for the RNASeq SNP (Grove) pipeline
+
